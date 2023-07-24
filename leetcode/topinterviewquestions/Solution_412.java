@@ -1,4 +1,4 @@
-package leetcode.hot100;
+package leetcode.topinterviewquestions;
 
 import java.util.ArrayList;
 import java.util.List;
